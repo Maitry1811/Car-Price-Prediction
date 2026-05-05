@@ -1,21 +1,21 @@
 # Car-Price-Prediction
 
 # Project OverView
--This project uses a Random Forest Regressor model to estimate car prices. It provides a simple and interactive user interface where users can enter car details and get instant predictions.
+- This project uses a Random Forest Regressor model to estimate car prices. It provides a simple and interactive user interface where users can enter car details and get instant predictions.
 
 # Features
--Predict car resale price in real-time
--User-friendly Streamlit interface
--Handles categorical and numerical data
--Accurate predictions using ML model
--Fast and lightweight application
+- Predict car resale price in real-time
+- User-friendly Streamlit interface
+- Handles categorical and numerical data
+- Accurate predictions using ML model
+- Fast and lightweight application
 
 # Tech Stack
--Python
--Pandas & NumPy
--Scikit-learn
--Streamlit
--Pickle
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Streamlit
+- Pickle
 
 # Dataset
 -The dataset contains the following features:
