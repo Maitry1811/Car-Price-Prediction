@@ -36,7 +36,14 @@
 - streamlit run app.py
 
 # Project Structure
-
+- car-price-prediction/
+- │
+- ├── app.py
+- ├── train_model.py
+- ├── model.pkl
+- ├── car_data.csv
+- ├── requirements.txt
+- └── README.md
 
 # Screenshots
 - App Interface
