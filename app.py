@@ -4,7 +4,7 @@ import pickle
 from datetime import datetime
 
 # Load model
-model = pickle.load(open("car_model.pkl", "rb"))
+model = pickle.dump(model,open("car_model.pkl", "wb"))
 
 st.title("Car Price Prediction App")
 
