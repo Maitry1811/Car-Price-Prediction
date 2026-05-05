@@ -36,13 +36,12 @@
 -streamlit run app.py
 
 # Project Structure
--car-price-prediction/
--│
--├── app.py
--├── train_model.py
--├── model.pkl
--├── car_data.csvxt
--└── README.md
+-car-price-prediction
+-app.py
+-train_model.py
+-model.pkl
+-car_data.csvxt
+-README.md
 
 # Screenshots
 -App Interface
